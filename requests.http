@@ -1,5 +1,5 @@
 GET https://newsapi.org/v2/everything?qInTitle=dogs
-X-Api-Key: c376794f03eb41b5a72996a60cb02c88
+X-Api-Key: 
 
 ### Articles Index
 
